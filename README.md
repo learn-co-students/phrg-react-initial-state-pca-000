@@ -140,3 +140,4 @@ While component state is a very powerful feature, it should be used as sparingly
 - [Props in getInitialState Is an Anti-Pattern](https://facebook.github.io/react/tips/props-in-getInitialState-as-anti-pattern.html)
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/react-initial-state'>Initial State</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG React Initial State</p>
